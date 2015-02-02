@@ -5,7 +5,7 @@
  * 
  * Created on 2012-8-31обнГ5:43:58
  */
-package com.test.md5;
+package md5.checksum;
 
 import java.io.File;
 import java.io.FileInputStream;
