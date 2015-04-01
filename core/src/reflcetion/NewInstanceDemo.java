@@ -5,7 +5,7 @@ public class NewInstanceDemo {
 	public static void main(String[] args) {
 		Class<?> clazz = null;
 		try {
-			clazz = Class.forName("com.helife.reflcetion.Person");
+			clazz = Class.forName("reflcetion.Person");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}

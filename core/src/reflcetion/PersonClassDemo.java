@@ -12,7 +12,7 @@ public class PersonClassDemo {
 		System.out.println(c2.getName());
 		
 		//���
-		Class<?> c3 = Class.forName("com.helife.reflcetion.Person");
+		Class<?> c3 = Class.forName("reflcetion.Person");
 		System.out.println(c3.getName());
 	}
 
